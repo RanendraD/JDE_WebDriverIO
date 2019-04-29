@@ -1,0 +1,99 @@
+[2019-04-29T17:39:57.871] [INFO] default - the starting time is11237.973567008972
+[2019-04-29T17:39:57.873] [INFO] default - Starting function E1
+[2019-04-29T17:39:59.993] [INFO] default - User is :RD9076642
+[2019-04-29T17:39:59.993] [INFO] default - Password is :RD90766421
+[2019-04-29T17:39:59.993] [INFO] default - Environment is :PY920C1
+[2019-04-29T17:39:59.993] [INFO] default - Role is: TG9
+[2019-04-29T17:39:59.993] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-29T17:40:13.671] [INFO] default - User clicked Sign In
+[2019-04-29T17:40:13.671] [INFO] default - Ending function E1
+[2019-04-29T17:40:13.677] [INFO] default - Clicking on fastPath
+[2019-04-29T17:40:20.266] [INFO] default - fastPath clicked
+[2019-04-29T17:40:20.267] [INFO] default - Starting function setGridQBEValues
+[2019-04-29T17:40:20.928] [INFO] default - Grid Id of the grid is : 0_1
+[2019-04-29T17:40:21.392] [INFO] default - Identified Version field and Entered QA40G031B
+[2019-04-29T17:40:21.392] [INFO] default - Ending function SetGridQBEValues
+[2019-04-29T17:40:22.835] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T17:40:23.429] [INFO] default - Find clicked!
+[2019-04-29T17:40:23.430] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T17:40:25.459] [INFO] default - Starting function clickToolBarImage on Select
+[2019-04-29T17:40:26.038] [INFO] default - Select clicked!
+[2019-04-29T17:40:26.039] [INFO] default - Starting function clickToolBarImage on Select
+[2019-04-29T17:40:57.594] [INFO] default - Starting function clickToolBarImage on OK
+[2019-04-29T17:40:58.099] [INFO] default - OK clicked!
+[2019-04-29T17:40:58.099] [INFO] default - Starting function clickToolBarImage on OK
+[2019-04-29T17:41:02.654] [INFO] default - Starting function clickToolBarImage on Close
+[2019-04-29T17:41:03.226] [INFO] default - Close clicked!
+[2019-04-29T17:41:03.227] [INFO] default - Starting function clickToolBarImage on Close
+[2019-04-29T17:41:06.817] [INFO] default - Starting function UBEGetXML
+[2019-04-29T17:41:06.818] [INFO] default - Calling function removeXML
+[2019-04-29T17:41:06.818] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-29T17:41:06.820] [INFO] default - The xml-file already exists in the download loc, deleting now
+[2019-04-29T17:41:06.825] [INFO] default - Clicking on fastPath
+[2019-04-29T17:41:13.038] [INFO] default - fastPath clicked
+[2019-04-29T17:41:23.040] [INFO] default - Starting function setGridQBEValues
+[2019-04-29T17:41:23.497] [INFO] default - Grid Id of the grid is : 0_1
+[2019-04-29T17:41:24.483] [INFO] default - Identified Job field and Entered R40G031_QA40G031*
+[2019-04-29T17:41:24.484] [INFO] default - Ending function SetGridQBEValues
+[2019-04-29T17:41:24.484] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T17:41:25.276] [INFO] default - Find clicked!
+[2019-04-29T17:41:25.276] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T17:41:27.803] [INFO] default - Starting function selectRowMenu
+[2019-04-29T17:41:30.367] [INFO] default - Ending function selectRowMenu
+[2019-04-29T17:41:35.370] [FATAL] default - File could not be downloaded.
+[2019-04-29T17:41:35.371] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:35.805] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:36.119] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:36.420] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:36.725] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:37.053] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:37.354] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:37.665] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:37.955] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:38.247] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:38.546] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:38.826] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:39.105] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:39.418] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:39.718] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:40.017] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:40.339] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:40.646] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:40.952] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:41.264] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:41.573] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:41.858] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:42.142] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:42.446] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:42.745] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:43.032] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:43.331] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:43.626] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:43.940] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:44.256] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:44.539] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:44.850] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:45.166] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:45.487] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:45.832] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:46.117] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:46.433] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:46.736] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:47.041] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:47.336] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:47.643] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:47.946] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:48.235] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:48.523] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:48.836] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:49.137] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:49.438] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:49.752] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:50.057] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:50.357] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:50.636] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:50.946] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:51.225] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:51.515] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:51.812] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-29T17:41:52.128] [INFO] default - The execution time is 114256.703

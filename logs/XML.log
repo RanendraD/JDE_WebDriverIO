@@ -1,0 +1,153 @@
+[2019-04-04T11:47:00.723] [INFO] default - Hello_ronny1
+[2019-04-04T11:47:03.445] [INFO] default - Ronny is Comté1.
+[2019-04-04T11:47:07.152] [INFO] default - Ronny is Comté.
+[2019-04-04T11:47:07.152] [ERROR] default - See screenshot
+[2019-04-04T11:48:26.762] [INFO] default - Hello_ronny1
+[2019-04-04T11:48:29.169] [INFO] default - Ronny is Comté1.
+[2019-04-04T11:48:44.093] [INFO] default - Ronny is Comté.
+[2019-04-04T11:48:44.093] [ERROR] default - See screenshot
+[2019-04-04T11:50:57.886] [INFO] default - Hello_ronny1
+[2019-04-04T11:51:02.438] [INFO] default - Ronny is Comté1.
+[2019-04-04T11:51:17.536] [INFO] default - Ronny is Comté.
+[2019-04-04T11:51:17.536] [ERROR] default - See screenshot
+[2019-04-04T11:51:28.099] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-05T13:54:25.559] [INFO] default - Hello_ronny1
+[2019-04-05T13:54:27.656] [INFO] default - Ronny is Comté1.
+[2019-04-05T13:54:42.991] [INFO] default - Ronny is Comté.
+[2019-04-05T13:54:42.991] [ERROR] default - See screenshot
+[2019-04-05T15:00:38.352] [INFO] default - Hello_ronny1
+[2019-04-05T15:00:44.594] [INFO] default - Ronny is Comté1.
+[2019-04-05T15:00:58.787] [INFO] default - Ronny is Comté.
+[2019-04-05T15:00:58.788] [ERROR] default - See screenshot
+[2019-04-05T15:01:09.252] [INFO] default - The directory isC:\Users\randhar.ORADEV\WebDIO\xmlDownload\R40G031_QA40G031B
+[2019-04-05T16:00:17.867] [INFO] default - Hello_ronny1
+[2019-04-05T16:00:19.938] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:00:34.071] [INFO] default - Ronny is Comté.
+[2019-04-05T16:00:34.071] [ERROR] default - See screenshot
+[2019-04-05T16:00:44.534] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-05T16:03:18.343] [INFO] default - Hello_ronny1
+[2019-04-05T16:03:20.366] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:03:34.971] [INFO] default - Ronny is Comté.
+[2019-04-05T16:03:34.972] [ERROR] default - See screenshot
+[2019-04-05T16:03:45.527] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-05T16:03:45.529] [INFO] default - The xml-file already exists in the download loc, deleting now
+[2019-04-05T16:03:45.529] [INFO] default - the extra part is: _111385_PDF.xml
+[2019-04-05T16:05:21.558] [INFO] default - Hello_ronny1
+[2019-04-05T16:05:23.590] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:05:37.140] [INFO] default - Ronny is Comté.
+[2019-04-05T16:05:37.141] [ERROR] default - See screenshot
+[2019-04-05T16:05:47.638] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-05T16:05:47.640] [INFO] default - The xml-file already exists in the download loc, deleting now
+[2019-04-05T16:28:08.921] [INFO] default - Hello_ronny1
+[2019-04-05T16:28:10.989] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:28:25.760] [INFO] default - Ronny is Comté.
+[2019-04-05T16:28:25.760] [ERROR] default - See screenshot
+[2019-04-05T16:29:47.936] [INFO] default - Hello_ronny1
+[2019-04-05T16:29:49.977] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:30:05.445] [INFO] default - Ronny is Comté.
+[2019-04-05T16:30:05.445] [ERROR] default - See screenshot
+[2019-04-05T16:30:16.009] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-05T16:31:19.000] [INFO] default - Hello_ronny1
+[2019-04-05T16:31:21.053] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:31:25.557] [INFO] default - Ronny is Comté.
+[2019-04-05T16:31:25.558] [ERROR] default - See screenshot
+[2019-04-05T16:31:36.223] [ERROR] default - The expected and actual nodeValue is not equal
+[2019-04-05T16:54:35.968] [INFO] default - Hello_ronny1
+[2019-04-05T16:54:38.029] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:54:52.403] [INFO] default - Ronny is Comté.
+[2019-04-05T16:54:52.403] [ERROR] default - See screenshot
+[2019-04-05T16:57:35.858] [INFO] default - Hello_ronny1
+[2019-04-05T16:57:37.902] [INFO] default - Ronny is Comté1.
+[2019-04-05T16:57:52.056] [INFO] default - Ronny is Comté.
+[2019-04-05T16:57:52.057] [ERROR] default - See screenshot
+[2019-04-05T17:00:23.268] [INFO] default - Hello_ronny1
+[2019-04-05T17:00:25.336] [INFO] default - Ronny is Comté1.
+[2019-04-05T17:00:39.907] [INFO] default - Ronny is Comté.
+[2019-04-05T17:00:39.907] [ERROR] default - See screenshot
+[2019-04-05T17:01:51.473] [INFO] default - Hello_ronny1
+[2019-04-05T17:01:53.535] [INFO] default - Ronny is Comté1.
+[2019-04-05T17:02:08.578] [INFO] default - Ronny is Comté.
+[2019-04-05T17:02:08.578] [ERROR] default - See screenshot
+[2019-04-05T17:06:41.836] [INFO] default - Hello_ronny1
+[2019-04-05T17:06:43.941] [INFO] default - Ronny is Comté1.
+[2019-04-05T17:06:58.667] [INFO] default - Ronny is Comté.
+[2019-04-05T17:06:58.668] [ERROR] default - See screenshot
+[2019-04-08T12:58:45.231] [INFO] default - Hello_ronny1
+[2019-04-08T12:58:47.260] [INFO] default - Ronny is Comté1.
+[2019-04-08T13:02:36.431] [INFO] default - Hello_ronny1
+[2019-04-08T13:02:40.574] [INFO] default - Ronny is Comté1.
+[2019-04-08T15:14:30.806] [INFO] default - Hello_ronny1
+[2019-04-08T15:14:59.453] [INFO] default - Ronny is Comté1.
+[2019-04-08T15:17:19.339] [INFO] default - Hello_ronny1
+[2019-04-08T15:17:22.001] [INFO] default - Ronny is Comté1.
+[2019-04-08T15:20:40.506] [INFO] default - Hello_ronny1
+[2019-04-08T15:20:42.719] [INFO] default - Ronny is Comté1.
+[2019-04-08T15:21:16.210] [INFO] default - Hello_ronny1
+[2019-04-08T15:21:20.611] [INFO] default - Ronny is Comté1.
+[2019-04-08T15:45:33.284] [INFO] default - Hello_ronny1
+[2019-04-08T15:45:44.485] [INFO] default - Ronny is Comté1.
+[2019-04-08T15:49:50.683] [INFO] default - Hello_ronny1
+[2019-04-08T15:49:53.388] [INFO] default - Ronny is Comté1.
+[2019-04-08T15:53:27.985] [INFO] default - Hello_ronny1
+[2019-04-08T15:53:30.135] [INFO] default - Ronny is Comté1.
+[2019-04-08T16:25:58.426] [INFO] default - Hello_ronny1
+[2019-04-08T16:26:00.529] [INFO] default - Ronny is Comté1.
+[2019-04-08T16:28:23.778] [INFO] default - Hello_ronny1
+[2019-04-08T16:28:25.878] [INFO] default - Ronny is Comté1.
+[2019-04-08T16:30:38.925] [INFO] default - Hello_ronny1
+[2019-04-08T16:30:41.075] [INFO] default - Ronny is Comté1.
+[2019-04-08T16:32:51.088] [INFO] default - Hello_ronny1
+[2019-04-08T16:32:53.585] [INFO] default - Ronny is Comté1.
+[2019-04-08T16:34:36.470] [INFO] default - Hello_ronny1
+[2019-04-08T16:34:38.498] [INFO] default - Ronny is Comté1.
+[2019-04-08T16:44:35.350] [INFO] default - Hello_ronny1
+[2019-04-08T16:44:37.384] [INFO] default - Ronny is Comté1.
+[2019-04-08T16:51:04.363] [INFO] default - Hello_ronny1
+[2019-04-08T16:51:06.451] [INFO] default - Ronny is Comté1.
+[2019-04-08T17:12:29.080] [INFO] default - Hello_ronny1
+[2019-04-08T17:12:31.139] [INFO] default - Ronny is Comté1.
+[2019-04-09T13:33:39.123] [INFO] default - Hello_ronny1
+[2019-04-09T13:33:48.768] [INFO] default - Ronny is Comté1.
+[2019-04-09T13:34:22.620] [INFO] default - Starting function selectFormMenu
+[2019-04-10T12:58:17.872] [INFO] default - Hello_ronny1
+[2019-04-10T12:58:20.615] [INFO] default - Ronny is Comté1.
+[2019-04-10T12:59:16.488] [INFO] default - Hello_ronny1
+[2019-04-10T12:59:43.777] [INFO] default - Ronny is Comté1.
+[2019-04-10T13:00:17.094] [INFO] default - Starting function selectRowMenu
+[2019-04-10T13:00:18.715] [INFO] default - Clicking on Add Interim
+[2019-04-10T13:00:19.846] [INFO] default - Ending function selectFormMenu
+[2019-04-10T13:02:07.382] [INFO] default - Hello_ronny1
+[2019-04-10T13:02:09.505] [INFO] default - Ronny is Comté1.
+[2019-04-10T13:02:39.330] [INFO] default - Starting function selectRowMenu
+[2019-04-10T13:02:41.045] [INFO] default - Clicking on Print All
+[2019-04-10T14:49:02.759] [INFO] default - Hello_ronny1
+[2019-04-10T14:49:12.564] [INFO] default - Ronny is Comté1.
+[2019-04-10T14:49:50.763] [INFO] default - Starting function selectRowMenu
+[2019-04-10T14:51:59.953] [INFO] default - Hello_ronny1
+[2019-04-10T14:52:02.405] [INFO] default - Ronny is Comté1.
+[2019-04-10T14:52:37.097] [INFO] default - Starting function selectRowMenu
+[2019-04-10T14:52:40.208] [INFO] default - Ending function selectFormMenu
+[2019-04-10T14:56:55.892] [INFO] default - Hello_ronny1
+[2019-04-10T14:56:57.970] [INFO] default - Ronny is Comté1.
+[2019-04-10T14:57:30.086] [INFO] default - Starting function selectRowMenu
+[2019-04-10T14:57:35.973] [INFO] default - Ending function selectFormMenu
+[2019-04-12T11:43:18.026] [INFO] default - Ronny is Comté1.
+[2019-04-12T11:43:43.634] [INFO] default - Starting function UBEGetXML
+[2019-04-12T11:43:43.635] [INFO] default - Calling function removeXML
+[2019-04-12T11:43:43.635] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-12T11:44:15.990] [INFO] default - Starting function selectRowMenu
+[2019-04-12T11:44:18.344] [INFO] default - Ending function selectRowMenu
+[2019-04-12T11:52:30.896] [INFO] default - Ronny is Comté1.
+[2019-04-12T11:52:57.001] [INFO] default - Starting function UBEGetXML
+[2019-04-12T11:52:57.001] [INFO] default - Calling function removeXML
+[2019-04-12T11:52:57.001] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-12T11:52:57.002] [INFO] default - The xml-file already exists in the download loc, deleting now
+[2019-04-12T11:53:27.569] [INFO] default - Starting function selectRowMenu
+[2019-04-12T11:53:29.869] [INFO] default - Ending function selectRowMenu
+[2019-04-12T12:00:47.151] [INFO] default - Ronny is Comté1.
+[2019-04-12T12:01:13.724] [INFO] default - Starting function UBEGetXML
+[2019-04-12T12:01:13.724] [INFO] default - Calling function removeXML
+[2019-04-12T12:01:13.724] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-12T12:01:13.724] [INFO] default - The xml-file already exists in the download loc, deleting now
+[2019-04-12T12:01:45.466] [INFO] default - Starting function selectRowMenu
+[2019-04-12T12:01:47.738] [INFO] default - Ending function selectRowMenu

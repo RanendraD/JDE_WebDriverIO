@@ -1,0 +1,16 @@
+[2019-04-12T14:33:50.439] [INFO] default - Ronny is Comté1.
+[2019-04-12T14:34:16.372] [INFO] default - Starting function UBEGetXML
+[2019-04-12T14:34:16.372] [INFO] default - Calling function removeXML
+[2019-04-12T14:34:16.372] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-12T14:34:16.373] [INFO] default - The xml-file already exists in the download loc, deleting now
+[2019-04-12T14:34:47.666] [INFO] default - Starting function selectRowMenu
+[2019-04-12T14:34:49.874] [INFO] default - Ending function selectRowMenu
+[2019-04-12T14:34:54.880] [FATAL] default - File could not be downloaded.
+[2019-04-12T15:08:05.923] [INFO] default - Ronny is Comté1.
+[2019-04-12T15:08:30.113] [INFO] default - Starting function UBEGetXML
+[2019-04-12T15:08:30.114] [INFO] default - Calling function removeXML
+[2019-04-12T15:08:30.114] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-12T15:08:30.115] [INFO] default - The xml-file already exists in the download loc, deleting now
+[2019-04-12T15:09:02.317] [INFO] default - Starting function selectRowMenu
+[2019-04-12T15:09:04.645] [INFO] default - Ending function selectRowMenu
+[2019-04-12T15:09:09.649] [INFO] default - The UBE R31802A_QAMFGB01 was downloaded successfully.

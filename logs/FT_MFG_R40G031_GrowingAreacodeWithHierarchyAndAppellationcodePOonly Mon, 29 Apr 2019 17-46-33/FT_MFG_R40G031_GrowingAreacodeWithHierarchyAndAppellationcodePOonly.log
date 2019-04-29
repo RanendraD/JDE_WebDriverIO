@@ -1,0 +1,14 @@
+[2019-04-29T17:46:34.165] [INFO] default - the starting time is10894.048074990511
+[2019-04-29T17:46:34.168] [INFO] default - Starting function E1
+[2019-04-29T17:46:36.591] [INFO] default - User is :RD9076642
+[2019-04-29T17:46:36.592] [INFO] default - Password is :RD90766421
+[2019-04-29T17:46:36.592] [INFO] default - Environment is :PY920C1
+[2019-04-29T17:46:36.592] [INFO] default - Role is: TG7
+[2019-04-29T17:46:36.592] [INFO] default - URL is : http://denac144.us.oracle.com:25022/jde/E1Menu.maf
+[2019-04-29T17:46:52.074] [INFO] default - User clicked Sign In
+[2019-04-29T17:46:52.074] [INFO] default - Ending function E1
+[2019-04-29T17:46:52.076] [INFO] default - Clicking on fastPath
+[2019-04-29T17:47:55.638] [INFO] default - fastPath clicked
+[2019-04-29T17:47:55.638] [INFO] default - Starting function setGridQBEValues
+[2019-04-29T17:47:56.294] [INFO] default - Grid Id of the grid is : undefined
+[2019-04-29T17:47:56.294] [ERROR] default - [SetGridQBEValues] SetQBE Failed: QBE field for column undefined not exist

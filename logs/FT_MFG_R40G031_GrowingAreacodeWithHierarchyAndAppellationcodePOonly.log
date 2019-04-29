@@ -1,0 +1,26 @@
+[2019-04-24T15:05:29.135] [INFO] default - Starting function E1
+[2019-04-24T15:05:32.371] [INFO] default - User is :RD9076642
+[2019-04-24T15:05:32.372] [INFO] default - Password is :RD90766421
+[2019-04-24T15:05:32.372] [INFO] default - Environment is :PY920C1
+[2019-04-24T15:05:32.372] [INFO] default - Role is: TG9
+[2019-04-24T15:05:32.372] [INFO] default - URL is : http://denac144.us.oracle.com:25022/jde/E1Menu.maf
+[2019-04-24T15:06:36.846] [INFO] default - Starting function UBEGetXML
+[2019-04-24T15:06:36.846] [INFO] default - Calling function removeXML
+[2019-04-24T15:06:36.846] [INFO] default - The dir is:C:\Users\randhar.ORADEV\WebDIO\xmlDownload starting removeXML
+[2019-04-24T15:06:53.740] [INFO] default - Starting function selectRowMenu
+[2019-04-24T15:06:56.423] [INFO] default - Ending function selectRowMenu
+[2019-04-24T15:07:01.427] [INFO] default - The UBE R40G031_QA40G031 was downloaded successfully.
+[2019-04-24T15:43:11.561] [INFO] default - Starting function E1
+[2019-04-24T15:43:13.684] [INFO] default - User is :RD9076642
+[2019-04-24T15:43:13.684] [INFO] default - Password is :RD90766421
+[2019-04-24T15:43:13.684] [INFO] default - Environment is :PY920C1
+[2019-04-24T15:43:13.684] [INFO] default - Role is: TG9
+[2019-04-24T15:43:13.684] [INFO] default - URL is : http://denac144.us.oracle.com:25022/jde/E1Menu.maf
+[2019-04-24T15:43:27.261] [INFO] default - Converting R40G031_QA40G031B_115365_PDF.xml to JSON array
+[2019-04-24T15:52:05.432] [INFO] default - Starting function E1
+[2019-04-24T15:52:07.959] [INFO] default - User is :RD9076642
+[2019-04-24T15:52:07.959] [INFO] default - Password is :RD90766421
+[2019-04-24T15:52:07.959] [INFO] default - Environment is :PY920C1
+[2019-04-24T15:52:07.959] [INFO] default - Role is: TG9
+[2019-04-24T15:52:07.959] [INFO] default - URL is : http://denac144.us.oracle.com:25022/jde/E1Menu.maf
+[2019-04-24T15:52:22.354] [INFO] default - Converting R40G031_QA40G031B_115365_PDF.xml to JSON array

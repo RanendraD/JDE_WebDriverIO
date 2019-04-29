@@ -1,0 +1,12 @@
+[2019-04-29T17:43:41.481] [INFO] default - the starting time is11602.032444000244
+[2019-04-29T17:43:41.482] [INFO] default - Starting function E1
+[2019-04-29T17:43:43.576] [INFO] default - User is :RD9076642
+[2019-04-29T17:43:43.576] [INFO] default - Password is :RD90766421
+[2019-04-29T17:43:43.576] [INFO] default - Environment is :PY920C1
+[2019-04-29T17:43:43.576] [INFO] default - Role is: TG7
+[2019-04-29T17:43:43.576] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-29T17:43:56.934] [INFO] default - User clicked Sign In
+[2019-04-29T17:43:56.934] [INFO] default - Ending function E1
+[2019-04-29T17:43:56.947] [INFO] default - Clicking on fastPath
+[2019-04-29T17:45:00.449] [INFO] default - fastPath clicked
+[2019-04-29T17:45:00.450] [INFO] default - Starting function setGridQBEValues

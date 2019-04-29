@@ -1,0 +1,65 @@
+[2019-04-25T12:25:45.025] [INFO] default - The 
+[2019-04-25T12:25:45.070] [INFO] default - Starting function E1
+[2019-04-25T12:25:47.557] [INFO] default - User is :RD9076642
+[2019-04-25T12:25:47.558] [INFO] default - Password is :RD90766421
+[2019-04-25T12:25:47.558] [INFO] default - Environment is :PY920C1
+[2019-04-25T12:25:47.558] [INFO] default - Role is: TG9
+[2019-04-25T12:25:47.558] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-25T12:27:11.407] [INFO] default - The expected grid Row Count is 1 and the actual is 1
+[2019-04-25T12:27:12.003] [INFO] default - Row Index at grid id 0_1is 0
+[2019-04-25T12:27:12.218] [INFO] default - The expected value is TESTand actual value isTEST
+[2019-04-25T12:27:23.288] [INFO] default - No extra data browsers  and the title of frame is JD Edwards
+[2019-04-25T12:27:47.982] [ERROR] default - The expected grid Row Count is 1 and the actual is 0
+[2019-04-25T12:27:48.654] [ERROR] default - Report Failure
+[2019-04-25T12:27:51.160] [ERROR] default - The expected grid Row Count is 1 and the actual is 0
+[2019-04-25T12:27:51.692] [ERROR] default - Report Failure
+[2019-04-25T12:27:53.435] [INFO] default - All databrowsers are closed
+[2019-04-25T12:49:45.641] [INFO] default - the starting time is7916.262403011322
+[2019-04-25T12:49:45.657] [INFO] default - The 
+[2019-04-25T12:49:45.672] [INFO] default - Starting function E1
+[2019-04-25T12:49:51.943] [INFO] default - User is :RD9076642
+[2019-04-25T12:49:51.943] [INFO] default - Password is :RD90766421
+[2019-04-25T12:49:51.943] [INFO] default - Environment is :PY920C1
+[2019-04-25T12:49:51.943] [INFO] default - Role is: TG9
+[2019-04-25T12:49:51.943] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-25T12:51:36.061] [INFO] default - the starting time is6057.773255109787
+[2019-04-25T12:51:36.062] [INFO] default - The 
+[2019-04-25T12:51:36.134] [INFO] default - Starting function E1
+[2019-04-25T12:51:38.374] [INFO] default - User is :RD9076642
+[2019-04-25T12:51:38.374] [INFO] default - Password is :RD90766421
+[2019-04-25T12:51:38.374] [INFO] default - Environment is :PY920C1
+[2019-04-25T12:51:38.374] [INFO] default - Role is: TG9
+[2019-04-25T12:51:38.374] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-25T12:53:05.968] [INFO] default - the starting time is6949.34640789032
+[2019-04-25T12:53:06.000] [INFO] default - Starting function E1
+[2019-04-25T12:53:08.227] [INFO] default - User is :RD9076642
+[2019-04-25T12:53:08.227] [INFO] default - Password is :RD90766421
+[2019-04-25T12:53:08.227] [INFO] default - Environment is :PY920C1
+[2019-04-25T12:53:08.227] [INFO] default - Role is: TG9
+[2019-04-25T12:53:08.227] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-25T12:53:22.798] [INFO] default - The execution time is 16820.460
+[2019-04-26T10:42:03.134] [INFO] default - the starting time is8202.575477838516
+[2019-04-26T10:42:03.163] [INFO] default - Starting function E1
+[2019-04-26T10:53:03.840] [INFO] default - the starting time is6423.1260669231415
+[2019-04-26T10:53:03.925] [INFO] default - Starting function E1
+[2019-04-26T10:53:22.007] [INFO] default - User is :RD9076642
+[2019-04-26T10:53:22.008] [INFO] default - Password is :RD90766421
+[2019-04-26T10:53:22.008] [INFO] default - Environment is :PY920C1
+[2019-04-26T10:53:22.008] [INFO] default - Role is: TG9
+[2019-04-26T10:53:22.008] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-26T10:53:26.244] [INFO] default - The execution time is 22404.021
+[2019-04-26T11:37:43.978] [INFO] default - the starting time is6152.095194816589
+[2019-04-26T11:37:44.046] [INFO] default - Starting function E1
+[2019-04-26T11:37:49.167] [INFO] default - User is :RD9076642
+[2019-04-26T11:37:49.167] [INFO] default - Password is :RD90766421
+[2019-04-26T11:37:49.167] [INFO] default - Environment is :PY920C1
+[2019-04-26T11:37:49.167] [INFO] default - Role is: TG9
+[2019-04-26T11:37:49.167] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-26T11:37:55.609] [INFO] default - The execution time is 11630.932
+[2019-04-26T11:51:00.238] [INFO] default - the starting time is6216.726072072983
+[2019-04-26T11:51:00.299] [INFO] default - Starting function E1
+[2019-04-26T11:51:03.475] [INFO] default - User is :RD9076642
+[2019-04-26T11:51:03.475] [INFO] default - Password is :RD90766421
+[2019-04-26T11:51:03.475] [INFO] default - Environment is :PY920C1
+[2019-04-26T11:51:03.475] [INFO] default - Role is: TG9
+[2019-04-26T11:51:03.475] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf

@@ -1,0 +1,54 @@
+[2019-04-29T16:38:34.789] [INFO] default - the starting time is6297.844350993633
+[2019-04-29T16:38:34.790] [INFO] default - Starting function E1
+[2019-04-29T16:38:36.866] [INFO] default - User is :RD9076642
+[2019-04-29T16:38:36.866] [INFO] default - Password is :RD90766421
+[2019-04-29T16:38:36.866] [INFO] default - Environment is :PY920C1
+[2019-04-29T16:38:36.866] [INFO] default - Role is: TG9
+[2019-04-29T16:38:36.866] [INFO] default - URL is : http://denac138.us.oracle.com:25091/jde/E1Menu.maf
+[2019-04-29T16:38:48.906] [INFO] default - User clicked Sign In
+[2019-04-29T16:38:48.906] [INFO] default - Ending function E1
+[2019-04-29T16:38:48.906] [INFO] default - Clicking on fastPath
+[2019-04-29T16:38:55.310] [INFO] default - fastPath clicked
+[2019-04-29T16:39:06.009] [INFO] default - The expected frameName Work With Auto Reconciliation Rules and actual frameName Work With Auto Reconciliation Rules is equal
+[2019-04-29T16:39:06.011] [INFO] default - Starting function clickToolBarImage on Add
+[2019-04-29T16:39:06.647] [INFO] default - Add clicked!
+[2019-04-29T16:39:06.647] [INFO] default - Starting function clickToolBarImage on Add
+[2019-04-29T16:39:17.041] [INFO] default - The expected frameName Revise Auto Reconciliation Rules and actual frameName Revise Auto Reconciliation Rules is equal
+[2019-04-29T16:39:17.042] [INFO] default - Starting SetHeaderText for id C0_13 and value TEST
+[2019-04-29T16:39:17.427] [INFO] default - Starting function setGridQBEValues
+[2019-04-29T16:39:17.794] [INFO] default - Grid Id of the grid is : undefined
+[2019-04-29T16:39:17.794] [ERROR] default - [SetGridQBEValues] SetQBE Failed: QBE field for column undefined not exist
+[2019-04-29T16:39:18.131] [INFO] default - Starting function clickToolBarImage on Close
+[2019-04-29T16:39:18.543] [INFO] default - Starting Function openDataBrowser
+[2019-04-29T16:39:18.543] [INFO] default - Starting function closeDataBrowsers
+[2019-04-29T16:39:18.570] [INFO] default - No extra data browsers  and the title of frame is JD Edwards
+[2019-04-29T16:39:18.581] [INFO] default - Clicking on fastPath
+[2019-04-29T16:39:19.220] [INFO] default - fastPath clicked
+[2019-04-29T16:39:39.984] [INFO] default - Data Browser for table F09626 opened
+[2019-04-29T16:39:39.984] [INFO] default - Ending Function openDataBrowser
+[2019-04-29T16:39:39.985] [INFO] default - Starting function setGridQBEValues
+[2019-04-29T16:39:40.264] [INFO] default - Grid Id of the grid is : 0_88
+[2019-04-29T16:39:40.537] [INFO] default - Identified Reconciliation Rule field and Entered TEST
+[2019-04-29T16:39:40.537] [INFO] default - Ending function SetGridQBEValues
+[2019-04-29T16:39:40.753] [INFO] default - Identified TR CD  field and Entered  CR
+[2019-04-29T16:39:40.753] [INFO] default - Ending function SetGridQBEValues
+[2019-04-29T16:39:40.754] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T16:39:40.935] [INFO] default - Find clicked!
+[2019-04-29T16:39:40.935] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T16:39:40.935] [INFO] default - Starting function validateGridRowCount
+[2019-04-29T16:39:41.096] [INFO] default - Grid Id is:0_88
+[2019-04-29T16:39:41.120] [INFO] default - Grid row count is:0
+[2019-04-29T16:39:41.120] [ERROR] default - The expected grid Row Count is 1 and the actual is 0
+[2019-04-29T16:39:41.466] [INFO] default - Starting function setGridQBEValues
+[2019-04-29T16:39:41.603] [INFO] default - Grid Id of the grid is : 0_88
+[2019-04-29T16:39:41.818] [INFO] default - Identified Reconciliation Rule field and Entered TEST
+[2019-04-29T16:39:41.818] [INFO] default - Ending function SetGridQBEValues
+[2019-04-29T16:39:42.022] [INFO] default - Identified TR CD  field and Entered  CK
+[2019-04-29T16:39:42.022] [INFO] default - Ending function SetGridQBEValues
+[2019-04-29T16:39:42.022] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T16:39:42.183] [INFO] default - Find clicked!
+[2019-04-29T16:39:42.183] [INFO] default - Starting function clickToolBarImage on Find
+[2019-04-29T16:39:42.184] [INFO] default - Starting function validateGridRowCount
+[2019-04-29T16:39:42.322] [INFO] default - Grid Id is:0_88
+[2019-04-29T16:39:42.336] [INFO] default - Grid row count is:0
+[2019-04-29T16:39:42.336] [ERROR] default - The expected grid Row Count is 1 and the actual is 0
